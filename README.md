@@ -7,10 +7,8 @@
 ### 🧑‍💻 About Me
 - 🎓 **Undergraduate Student** majoring in **Internet of Things Engineering** at Henan Polytechnic University
 - 🚗 Focus on **Intelligent Vehicle & Robot Perception** (PID Control / Kalman Filter / ORB-SLAM2)
-- 🌱 Preparing for **Japanese Graduate School Entrance Exams** (targeting top national universities)
+- 🌱 Preparing for **Japanese Graduate School Entrance Exams** 
 - 🗣️ Learning Japanese (N2 level) & English (TOEIC 800+ goal)
-- 💼 Future goal: Pursue a master's degree in Japan & work in a major tech company to obtain PR
-
 ---
 
 ### 🛠️ Tech Stack
