@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=[张艺聪]&fontSize=60)
-👋 Hi, I'm [你的名字]
+i am 张艺聪
  河南理工大学物联网工程在读 | 主攻智能车与机器人感知 
 
 🛠️ 技术栈
