@@ -42,13 +42,10 @@
 ### 📫 Contact Me
 - 📧 Email: [2197958546@qq.com](mailto:2197958546@qq.com)
 - 🔗 GitHub: [Normanchine](https://github.com/Normanchine)
-- 📝 Blog: (Add your blog link if you have one)
-
 ---
 
 ### 🎯 Current Goals
 ```text
 🏁 Win national award in intelligent vehicle competition
 📚 Prepare for Japanese graduate school entrance exams (Math / Physics / Control Engineering / Signal Processing)
-🗣️ Pass JLPT N2 exam in July 2026
 🌐 Explore the integration of robot SLAM and edge AI
