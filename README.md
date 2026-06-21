@@ -1,49 +1,22 @@
-# 👋 Hi there, I'm Yicong Zhang!
+# Yicong Zhang
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yicong%20Zhang&fontSize=70&fontAlignY=40)
+I'm an undergraduate student in Internet of Things Engineering at Henan Polytechnic University.
 
----
+Most of what I build is close to hardware. Recently I have been working on an intelligent car built around RK3588 and STM32. My day-to-day work includes C++ development, deploying RKNN models, tuning path-following control, and debugging camera, shared-memory, and serial communication issues.
 
-### 🧑‍💻 About Me
-- 🎓 **Undergraduate Student** majoring in **Internet of Things Engineering** at Henan Polytechnic University
-- 🚗 Focus on **Intelligent Vehicle & Robot Perception** (PID Control / Kalman Filter / ORB-SLAM2)
-- 🌱 Preparing for **Japanese Graduate School Entrance Exams** 
-- 🗣️ Learning Japanese (N2 level) & English (TOEIC 800+ goal)
----
+## What I'm working on
 
-### 🛠️ Tech Stack
-| Category               | Skills                                                                 |
-|------------------------|-----------------------------------------------------------------------|
-| **Core Development**   | C++ / Python / Linux                                                  |
-| **Embedded & Hardware**| ESP32-S3 / RK3588 / STM32                                             |
-| **Algorithm & Control**| PID Control / Kalman Filter / ORB-SLAM2                               |
-| **AI & Edge Deployment**| TensorFlow Lite / Model Quantization                                  |
-| **Version Control**    | Git / GitHub                                                          |
+- **CongCar** — a C++17 vision and control system for an intelligent vehicle on RK3588. It combines OpenCV, RKNN inference, shared-memory video input, path planning, scene-based control, and UART communication with the lower controller.
+- **[Smart Ambient Node](https://github.com/Normanchine/Smart-Ambient-Node)** — an ESP8266-based environmental monitoring node connected to a private cloud service.
+- Preparing for graduate study in Japan, with a focus on control engineering, signal processing, and robotics.
 
----
+## Tools I use
 
-### 📊 GitHub Stats
-![Yicong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Normanchine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Normanchine&layout=compact&theme=tokyonight&hide_border=true)
+`C++` · `Python` · `Linux` · `CMake` · `Git` · `OpenCV` · `RKNN` · `STM32` · `ESP8266/ESP32` · `RK3588`
 
----
+I'm also studying Japanese and continuing to improve my technical English.
 
-### 🌟 Featured Projects
-| Project Name          | Tech Stack                     | Highlights                                                                 |
-|-----------------------|--------------------------------|---------------------------------------------------------------------------|
-| 🚗 **Intelligent Vehicle Control** | C++ / PID / Kalman Filter      | Implemented vehicle attitude control & sensor data fusion, won provincial awards |
-| 🤖 **ORB-SLAM2 Porting**          | C++ / Linux / IMU             | Ported visual SLAM algorithm to embedded platform for real-time localization |
-| 🧠 **Edge AI Demo**               | Python / TensorFlow Lite       | Deployed lightweight object detection model on RK3588 with low latency    |
+## Contact
 
----
-
-### 📫 Contact Me
-- 📧 Email: [2197958546@qq.com](mailto:2197958546@qq.com)
-- 🔗 GitHub: [Normanchine](https://github.com/Normanchine)
----
-
-### 🎯 Current Goals
-```text
-🏁 Win national award in intelligent vehicle competition
-📚 Prepare for Japanese graduate school entrance exams (Math / Physics / Control Engineering / Signal Processing)
-🌐 Explore the integration of robot SLAM and edge AI
+- Email: [2197958546@qq.com](mailto:2197958546@qq.com)
+- GitHub: [@Normanchine](https://github.com/Normanchine)
