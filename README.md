@@ -18,5 +18,5 @@ I'm also studying Japanese and continuing to improve my technical English.
 
 ## Contact
 
-- Email: [2197958546@qq.com](mailto:2197958546@qq.com)
+- Email: [normanfendley0@gmail.com](mailto:normanfendley0@gmail.com)
 - GitHub: [@Normanchine](https://github.com/Normanchine)
