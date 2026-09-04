@@ -23,13 +23,14 @@ communication, debugging, and validation.
 ## Selected work
 
 - **[CongCar](https://github.com/Normanchine/CongCar-public)** — public source
-  for a team intelligent-vehicle project built around RK3588 and STM32. The
-  upper-computer system uses C++17, OpenCV, RKNN, shared-memory video input,
-  path following, scene-based control, and UART communication. I participated
-  in architecture discussion, module changes, debugging, and validation.
-- **[SeeingTag-v2](https://github.com/Normanchine/SeeingTag-v2)** — a visual
-  marker localization project. My work includes investigating rotation-specific
-  ArUco detection loss and validating a more rotation-robust post-filter.
+  for the onboard software of a team intelligent-vehicle project, deployed
+  around RK3588 and STM32. The system uses C++17, OpenCV, RKNN, shared-memory
+  video input, path following, scene-based control, and UART communication. I
+  participated in architecture discussion, module changes, debugging, and validation.
+- **[SeeingTag-v2](https://github.com/Normanchine/SeeingTag-v2)** — an
+  independent virtual-world localization system built to support CongCar. I led
+  its refactor and implementation, including robust visual-marker
+  tracking and validation of rotation-resistant ArUco filtering.
 - **[Japanese Reading Assistant](https://github.com/Normanchine/obsidian-japanese-reading-assistant)** — an Obsidian plugin for Japanese learners:
   selection-based vocabulary, translation, and grammar analysis through local
   or cloud models, with optional PDF OCR and direct Chinese or English explanations.
