@@ -12,6 +12,14 @@ communication, debugging, and validation.
 - Local inference and deployment with OpenCV and RKNN
 - Tools that make language learning and technical work more usable
 
+## Awards
+
+- **National Second Prize** (team award) — National College Student Intelligent
+  Car Competition, AI Model Group
+- **National Second Prize** (team award) — National College Student Intelligent
+  Car Competition, Creative Group: Smart Healthcare category
+- **Provincial Second Prize** — Chinese Collegiate Computer Design Competition
+
 ## Selected work
 
 - **[CongCar](https://github.com/Normanchine/CongCar-public)** — public source
