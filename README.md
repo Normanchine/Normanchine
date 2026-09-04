@@ -20,6 +20,15 @@ communication, debugging, and validation.
   Car Competition, Creative Group: Smart Healthcare category
 - **Provincial Second Prize** — Chinese Collegiate Computer Design Competition
 
+## In progress
+
+- **Private ROS 2 indoor mobile robot** — Building an indoor mobile-robot
+  platform around an Intel NUC, ROS 2 Humble, an Astra Pro RGB-D camera, X2
+  LiDAR, and an encoder-based chassis. Verified work includes sensor bringup,
+  `/cmd_vel` to chassis control, encoder odometry and TF, controlled ground
+  tests, and LiDAR-only SLAM. Current work focuses on power integration,
+  odometry calibration, reliable ground driving, and Nav2 preparation.
+
 ## Selected work
 
 - **[CongCar](https://github.com/Normanchine/CongCar-public)** — public source
