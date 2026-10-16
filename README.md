@@ -43,6 +43,12 @@ communication, debugging, and validation.
 - **[Japanese Reading Assistant](https://github.com/Normanchine/obsidian-japanese-reading-assistant)** — an Obsidian plugin for Japanese learners:
   selection-based vocabulary, translation, and grammar analysis through local
   or cloud models, with optional PDF OCR and direct Chinese or English explanations.
+- **[Jujian · 句间](https://github.com/Normanchine/mainichi-nihongo)** — a Windows
+  desktop tool for Japanese and English listening practice and writing. It combines
+  local Whisper transcription, continuous subtitle cards, sentence loops, and
+  configurable shortcuts with cloud or local translation, explanations, and writing
+  feedback. Developed with AI assistance; cloneable source includes setup instructions
+  and API configuration in the app.
 - **[Smart Ambient Node](https://github.com/Normanchine/Smart-Ambient-Node)** —
   an ESP8266-based environmental-monitoring node connected to a private cloud service.
 
